@@ -1,5 +1,5 @@
 Hi, I’m Doug and this is a portfolio of my developments in Data Analysis.  
-As a project manager, I am actively developing my skills to extract meaningful insights from data. I have a deep curiosity for data-driven decision-making and am committed to continuous learning and improvement.
+As a project manager looking to leverage meaningful insights from data, I am actively developing my hard skills to accommodate. I have a deep curiosity for data-driven decision-making and am committed to continuous learning and improvement.
 
 ### 🛠️ Skills
 Although I am in the early stages of developing my data analysis hard skills, this portfolio demonstrates that I am dedicated to expanding in the following areas:
