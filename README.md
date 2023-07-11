@@ -14,16 +14,16 @@ Although I am in the early stages of developing my data analysis hard skills, th
 |   Excel (Power Query & Automate)  |   Intermediate   |   Fully Proficient   |
 
 ### 📚 Projects
-- Mini Project 1 - BlogMe
+- [Mini Project 1 - BlogMe](https://github.com/DougWicker/Mini-Project-1-BlogMe)
   - This mini project focused on sentiment and keyword analysis for Blog Me, a blogging website.
   - Skills utilised - Python (Pandas), Tableau
-- Mini Project 2 - Blue Bank
+- [Mini Project 2 - Blue Bank](https://github.com/DougWicker/Mini-Project-2-Blue-Bank)
   - This mini project involved analysing loan data for Blue Bank.
   - Skills utilised - Python (Pandas), Tableau
-- Mini Project 3 - Value Inc
+- [Mini Project 3 - Value Inc](https://github.com/DougWicker/Mini-Project-3-Value-Inc)
   - This mini project focused on analysing sales data for a retail company called Value Inc.
   - Skills utilised - Python (Pandas), Tableau
-- Video Game Critic Reviews (WIP)
+- [Video Game Critic Reviews (WIP)](https://github.com/DougWicker/VideoGameCriticReview)
   - This project delivers insights into the data collected from Metacritic regarding video game reviews, both by Metacritic, and Metacritic users.
   - Skills utilised - SQL, Python (Pandas, Matplotlib), Power Bi
 
