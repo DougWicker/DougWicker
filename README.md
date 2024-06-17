@@ -1,15 +1,15 @@
-Hi, I’m Doug and this is a portfolio of my developments in Data Analysis.  
-As a project manager looking to leverage meaningful insights from data, I am actively developing my hard skills to accommodate. I have a deep curiosity for data-driven decision-making and am committed to continuous learning and improvement.
+Hi, I’m Doug and this is a portfolio of my developments in Data Analysis & Data Engineering.  
+As a Data Analyst & Engineer looking to leverage meaningful insights from data, I am actively developing my hard skills to accommodate. I have a deep curiosity for data-driven decision-making and am committed to continuous learning and improvement.
 
 ### 🛠️ Skills
-Although I am in the early stages of developing my data analysis hard skills, this portfolio demonstrates that I am dedicated to expanding in the following areas:
+The below portfolio demonstrates the areas I am dedicated to developing:
 | Skill | Working Ability | Desired Ability |
 |:----------|:----------|:----------|
 |   Excel  |   Fully Proficient   |   Expert   |
-|   SQL (PostgreSQL)  |   Intermediate   |   Fully Proficient   |
+|   SQL (PostgreSQL)  |   Proficient   |   Fully Proficient   |
 | Tableau |   Proficient  |   Expert   |
 | Power Bi |   Proficient  |   Expert   |
-|   Python (incl. Pandas, NumPy & Matplotlib)  |   Beginner   |   Proficient   |
+|   Python (incl. Pandas, NumPy & Matplotlib)  |   Intermediate   |   Fully Proficient   |
 |   VBA  |   Proficient   |   Fully Proficient   |
 |   Excel (Power Query & Automate)  |   Intermediate   |   Fully Proficient   |
 
