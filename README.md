@@ -34,6 +34,20 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | 6 | [geospatial-data-engineering](https://github.com/DougWicker/geospatial-data-engineering) | PostGIS · Spatial ETL · FME-to-Python | 🔜 Upcoming |
 | 7 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | 🔜 Upcoming |
 
+UPDATE:
+## Technology Coverage by Repository
+
+| Technology     | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|----------------|---|---|---|---|---|---|---|
+| Python / uv    | ✓ |   |   | ✓ | ✓ | ✓ | ✓ |
+| PostgreSQL     | ✓ | ✓ |   | ✓ | ✓ | ✓ | ✓ |
+| DuckDB         |   | ✓ | ✓ | ✓ |   |   | ✓ |
+| Docker         | ✓ |   |   |   | ✓ | ✓ | ✓ |
+| pytest         | ✓ |   |   | ✓ |   |   | ✓ |
+| dbt            |   |   | ✓ |   | ✓ |   | ✓ |
+| Airflow        |   |   |   |   | ✓ |   | ✓ |
+| PostGIS / GIS  |   |   |   |   |   | ✓ | ✓ |
+| Streamlit      |   |   |   |   |   |   | ✓ |
 ---
 
 ## 📚 Analysis Projects
