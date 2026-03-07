@@ -1,35 +1,53 @@
-Hi, I’m Doug and this is a portfolio of my developments in Data Analysis & Data Engineering.  
-As a Data Analyst & Engineer looking to leverage meaningful insights from data, I am actively developing my hard skills to accommodate. I have a deep curiosity for data-driven decision-making and am committed to continuous learning and improvement.
+# Hi, I'm Doug 👋
 
-### 🛠️ Skills
-The below portfolio demonstrates the areas I am dedicated to developing:
-| Skill | Working Ability | Desired Ability |
-|:----------|:----------|:----------|
-|   Excel  |   Fully Proficient   |   Expert   |
-|   SQL (PostgreSQL)  |   Proficient   |   Fully Proficient   |
-| Tableau |   Proficient  |   Expert   |
-| Power Bi |   Proficient  |   Expert   |
-|   Python (incl. Pandas, NumPy & Matplotlib)  |   Intermediate   |   Fully Proficient   |
-|   VBA  |   Proficient   |   Fully Proficient   |
-|   Excel (Power Query & Automate)  |   Intermediate   |   Fully Proficient   |
+Data Analyst & Engineer with a background in spatial data, ETL pipelines, and analytical tooling. I'm actively building a Data Engineering portfolio to demonstrate practical skills across the modern open-source DE stack.
 
-### 📚 Projects
-- [Mini Project 1 - BlogMe](https://github.com/DougWicker/Mini-Project-1-BlogMe)
-  - This mini project focused on sentiment and keyword analysis for Blog Me, a blogging website.
-  - Skills utilised - Python (Pandas), Tableau
-- [Mini Project 2 - Blue Bank](https://github.com/DougWicker/Mini-Project-2-Blue-Bank)
-  - This mini project involved analysing loan data for Blue Bank.
-  - Skills utilised - Python (Pandas), Tableau
-- [Mini Project 3 - Value Inc](https://github.com/DougWicker/Mini-Project-3-Value-Inc)
-  - This mini project focused on analysing sales data for a retail company called Value Inc.
-  - Skills utilised - Python (Pandas), Tableau
-- [Video Game Critic Reviews (WIP)](https://github.com/DougWicker/VideoGameCriticReview)
-  - This project delivers insights into the data collected from Metacritic regarding video game reviews, both by Metacritic, and Metacritic users.
-  - Skills utilised - SQL, Python (Pandas, Matplotlib), Power Bi
+---
 
-I welcome any feedback, guidance, or opportunities to collaborate and learn from experienced data analysts. Feel free to reach out to me via email at douglas.wicker00@outlook.com.
+## 🛠️ Skills
 
-<!---
-TupperwareBox/TupperwareBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Area | Technologies |
+|:---|:---|
+| **Languages** | Python, SQL |
+| **Databases** | PostgreSQL, DuckDB, PostGIS |
+| **ETL / Pipelines** | Python (Pandas, SQLAlchemy), FME |
+| **Transformation** | dbt *(learning)* |
+| **Orchestration** | Apache Airflow *(learning)* |
+| **Containers** | Docker, Docker Compose *(learning)* |
+| **Testing** | pytest |
+| **Environment** | uv |
+| **Visualisation** | Tableau, Power BI, Streamlit *(learning)* |
+
+---
+
+## 🏗️ Data Engineering Portfolio
+
+Portfolio built to demonstrate mid-level Data Engineering skills using open-source technologies. Each repository is a focused mini-project, built progressively.
+
+| # | Repository | Focus | Status |
+|:--|:-----------|:-------|:------:|
+| 1 | [etl-pipeline-framework](https://github.com/DougWicker/etl-pipeline-framework) | Python ETL · PostgreSQL · Docker · pytest · uv | 🔜 Upcoming |
+| 2 | [sql-and-duckdb-playbook](https://github.com/DougWicker/sql-and-duckdb-playbook) | Advanced SQL · DuckDB · Parquet | 🔜 Upcoming |
+| 3 | [dbt-analytics-engineering](https://github.com/DougWicker/dbt-analytics-engineering) | dbt · DuckDB · Dimensional Modelling | 🔜 Upcoming |
+| 4 | [data-quality-framework](https://github.com/DougWicker/data-quality-framework) | Data Quality · pytest · Great Expectations | 🔜 Upcoming |
+| 5 | [airflow-data-pipelines](https://github.com/DougWicker/airflow-data-pipelines) | Apache Airflow · Docker Compose · Orchestration | 🔜 Upcoming |
+| 6 | [geospatial-data-engineering](https://github.com/DougWicker/geospatial-data-engineering) | PostGIS · Spatial ETL · FME-to-Python | 🔜 Upcoming |
+| 7 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | 🔜 Upcoming |
+
+---
+
+## 📚 Analysis Projects
+
+Earlier projects focused on data analysis and visualisation.
+
+- [Video Game Critic Reviews](https://github.com/DougWicker/VideoGameCriticReview) — Insights from Metacritic review data · SQL, Python, Power BI
+- [Mini Project 3 — Value Inc](https://github.com/DougWicker/Mini-Project-3-Value-Inc) — Retail sales analysis · Python (Pandas), Tableau
+- [Mini Project 2 — Blue Bank](https://github.com/DougWicker/Mini-Project-2-Blue-Bank) — Loan data analysis · Python (Pandas), Tableau
+- [Mini Project 1 — BlogMe](https://github.com/DougWicker/Mini-Project-1-BlogMe) — Sentiment & keyword analysis · Python (Pandas), Tableau
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out for feedback, collaboration, or opportunities.
+📧 douglas.wicker00@outlook.com
