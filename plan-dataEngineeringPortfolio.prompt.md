@@ -57,13 +57,7 @@
 
 ### Phase 4 — Differentiators & Capstone
 
-#### 6. `geospatial-data-engineering` — Your USP
-- Python ETL for spatial data (OS Open Data or similar public UK dataset)
-- PostGIS transformations; comparison of FME-style workflow vs. pure Python/SQL
-- Docker Compose'd PostGIS instance
-- **Why:** Almost no DE candidates have hands-on PostGIS + FME. Strong differentiator for utilities, infrastructure, public sector, and mapping roles.
-
-#### 7. `open-data-pipeline` — Capstone
+#### 6. `open-data-pipeline` — Capstone
 - End-to-end pipeline on a real public UK dataset (e.g. Environment Agency, ONS, OS OpenData)
 - Stack: Python ingest → PostgreSQL/DuckDB → dbt transform → DQ checks → Airflow orchestration
 - **Streamlit** dashboard as the serving layer — interactive data app to surface the pipeline's outputs
