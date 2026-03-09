@@ -26,7 +26,7 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 
 | # | Repository | Focus | Status |
 |:--|:-----------|:-------|:------:|
-| 1 | [etl-pipeline-framework](https://github.com/DougWicker/etl-pipeline-framework) | Python ETL · PostgreSQL · Docker · pytest · uv | 🔜 Upcoming |
+| 1 | [etl-pipeline-framework](https://github.com/DougWicker/etl-pipeline-framework) | Python ETL · PostgreSQL · Docker · pytest · uv | ✅ Complete |
 | 2 | [sql-and-duckdb-playbook](https://github.com/DougWicker/sql-and-duckdb-playbook) | Advanced SQL · DuckDB · Parquet | 🔜 Upcoming |
 | 3 | [dbt-analytics-engineering](https://github.com/DougWicker/dbt-analytics-engineering) | dbt · DuckDB · Dimensional Modelling | 🔜 Upcoming |
 | 4 | [data-quality-framework](https://github.com/DougWicker/data-quality-framework) | Data Quality · pytest · Great Expectations | 🔜 Upcoming |
@@ -34,20 +34,19 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | 6 | [geospatial-data-engineering](https://github.com/DougWicker/geospatial-data-engineering) | PostGIS · Spatial ETL · FME-to-Python | 🔜 Upcoming |
 | 7 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | 🔜 Upcoming |
 
-UPDATE:
 ## Technology Coverage by Repository
 
-| Technology     | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|----------------|---|---|---|---|---|---|---|
-| Python / uv    | ✓ |   |   | ✓ | ✓ | ✓ | ✓ |
-| PostgreSQL     | ✓ | ✓ |   | ✓ | ✓ | ✓ | ✓ |
-| DuckDB         |   | ✓ | ✓ | ✓ |   |   | ✓ |
-| Docker         | ✓ |   |   |   | ✓ | ✓ | ✓ |
-| pytest         | ✓ |   |   | ✓ |   |   | ✓ |
-| dbt            |   |   | ✓ |   | ✓ |   | ✓ |
-| Airflow        |   |   |   |   | ✓ |   | ✓ |
-| PostGIS / GIS  |   |   |   |   |   | ✓ | ✓ |
-| Streamlit      |   |   |   |   |   |   | ✓ |
+| Technology | 1 · etl-pipeline | 2 · sql-duckdb | 3 · dbt-analytics | 4 · data-quality | 5 · airflow | 6 · geospatial | 7 · open-data |
+|:-----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Python / uv   | ✅ |    |    | ✅ | ✅ | ✅ | ✅ |
+| PostgreSQL    | ✅ | ✅ |    | ✅ | ✅ | ✅ | ✅ |
+| DuckDB        |    | ✅ | ✅ | ✅ |    |    | ✅ |
+| Docker        | ✅ |    |    |    | ✅ | ✅ | ✅ |
+| pytest        | ✅ |    |    | ✅ |    |    | ✅ |
+| dbt           |    |    | ✅ |    | ✅ |    | ✅ |
+| Airflow       |    |    |    |    | ✅ |    | ✅ |
+| PostGIS / GIS |    |    |    |    |    | ✅ | ✅ |
+| Streamlit     |    |    |    |    |    |    | ✅ |
 ---
 
 ## 📚 Analysis Projects
