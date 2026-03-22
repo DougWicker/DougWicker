@@ -36,7 +36,7 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 ## Technology Coverage by Repository
 
 | Technology | 1 · etl-pipeline | 2 · sql-duckdb | 3 · dbt-analytics | 4 · data-quality | 5 · airflow | 6 · open-data |
-|:-----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-----------|:-:|:-:|:-:|:-:|:-:|:-:|
 | Python / uv   | ✅ |    |    | ✅ | ✅ | ✅ |
 | PostgreSQL    | ✅ | ✅ |    | ✅ | ✅ | ✅ |
 | DuckDB        |    | ✅ | ✅ | ✅ |    |  ✅ |
