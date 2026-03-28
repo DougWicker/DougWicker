@@ -27,11 +27,11 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | # | Repository | Focus | Status |
 |:--|:-----------|:-------|:------:|
 | 1 | [etl-pipeline-framework](https://github.com/DougWicker/etl-pipeline-framework) | Python ETL · PostgreSQL · Docker · pytest · uv | ✅ Complete |
-| 2 | [sql-and-duckdb-playbook](https://github.com/DougWicker/sql-and-duckdb-playbook) | Advanced SQL · DuckDB · Parquet | 🔜 Upcoming |
-| 3 | [dbt-analytics-engineering](https://github.com/DougWicker/dbt-analytics-engineering) | dbt · DuckDB · Dimensional Modelling | 🔜 Upcoming |
-| 4 | [data-quality-framework](https://github.com/DougWicker/data-quality-framework) | Data Quality · pytest · Great Expectations | 🔜 Upcoming |
-| 5 | [airflow-data-pipelines](https://github.com/DougWicker/airflow-data-pipelines) | Apache Airflow · Docker Compose · Orchestration | 🔜 Upcoming |
-| 6 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | 🔜 Upcoming |
+| 2 | [sql-and-duckdb-playbook](https://github.com/DougWicker/sql-and-duckdb-playbook) | Advanced SQL · DuckDB · Parquet | In progress |
+| 3 | [dbt-analytics-engineering](https://github.com/DougWicker/dbt-analytics-engineering) | dbt · DuckDB · Dimensional Modelling | Upcoming |
+| 4 | [data-quality-framework](https://github.com/DougWicker/data-quality-framework) | Data Quality · pytest · Great Expectations | Upcoming |
+| 5 | [airflow-data-pipelines](https://github.com/DougWicker/airflow-data-pipelines) | Apache Airflow · Docker Compose · Orchestration | In progress |
+| 6 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | Upcoming |
 
 ## Technology Coverage by Repository
 
