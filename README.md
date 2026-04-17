@@ -12,7 +12,7 @@ Data Analyst & Engineer with a background in spatial data, ETL pipelines, and an
 | **Databases** | PostgreSQL, DuckDB, PostGIS |
 | **ETL / Pipelines** | Python (Pandas, SQLAlchemy), FME |
 | **Transformation** | dbt *(learning)* |
-| **Orchestration** | Apache Airflow *(learning)* |
+| **Orchestration** | Prefect *(learning)* |
 | **Containers** | Docker, Docker Compose *(learning)* |
 | **Testing** | pytest |
 | **Environment** | uv |
@@ -30,12 +30,12 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | 2 | [sql-and-duckdb-playbook](https://github.com/DougWicker/sql-and-duckdb-playbook) | Advanced SQL · DuckDB · Parquet | In progress |
 | 3 | [dbt-analytics-engineering](https://github.com/DougWicker/dbt-analytics-engineering) | dbt · DuckDB · Dimensional Modelling | Upcoming |
 | 4 | [data-quality-framework](https://github.com/DougWicker/data-quality-framework) | Data Quality · pytest · Great Expectations | Upcoming |
-| 5 | [airflow-data-pipelines](https://github.com/DougWicker/airflow-data-pipelines) | Apache Airflow · Docker Compose · Orchestration | In progress |
+| 5 | [prefect-data-pipelines](https://github.com/DougWicker/prefect-data-pipelines) | Prefect · Docker Compose · Orchestration | In progress |
 | 6 | [open-data-pipeline](https://github.com/DougWicker/open-data-pipeline) | End-to-end Pipeline · UK Open Data · Streamlit · Capstone | Upcoming |
 
 ## Technology Coverage by Repository
 
-| Technology | 1 · etl-pipeline | 2 · sql-duckdb | 3 · dbt-analytics | 4 · data-quality | 5 · airflow | 6 · open-data |
+| Technology | 1 · etl-pipeline | 2 · sql-duckdb | 3 · dbt-analytics | 4 · data-quality | 5 · prefect | 6 · open-data |
 |:-----------|:-:|:-:|:-:|:-:|:-:|:-:|
 | Python / uv   | ✅ |    |    | ✅ | ✅ | ✅ |
 | PostgreSQL    | ✅ | ✅ |    | ✅ | ✅ | ✅ |
@@ -43,7 +43,7 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | Docker        | ✅ |    |    |    | ✅ | ✅ |
 | pytest        | ✅ |    |    | ✅ |    |  ✅ |
 | dbt           |    |    | ✅ |    | ✅ |  ✅ |
-| Airflow       |    |    |    |    | ✅ |  ✅ |
+| Prefect       |    |    |    |    | ✅ |  ✅ |
 | PostGIS / GIS |    |    |    |    |    | ✅ |
 | Streamlit     |    |    |    |    |    | ✅ |
 ---

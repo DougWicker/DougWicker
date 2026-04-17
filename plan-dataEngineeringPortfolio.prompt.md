@@ -47,11 +47,11 @@
 
 ### Phase 3 — Orchestration
 
-#### 5. `airflow-data-pipelines`
-- Apache Airflow orchestrating DAGs from Repos 1 and 4
-- Docker Compose stack (Airflow + PostgreSQL + DuckDB target)
-- Realistic DAGs: daily ingest, dbt run trigger, DQ check, alerting on failure
-- **Why here:** Needs foundation repos to pull in. Docker Compose experience is a common interview topic.
+#### 5. `prefect-data-pipelines`
+- Prefect orchestrating flows from Repos 1 and 4
+- Docker Compose stack (Prefect server + PostgreSQL + DuckDB target)
+- Realistic flows: daily ingest, dbt run trigger, DQ check, alerting on failure
+- **Why here:** Needs foundation repos to pull in. Prefect is Python-native and increasingly preferred over Airflow for its simpler setup and better developer experience.
 
 ---
 
@@ -59,7 +59,7 @@
 
 #### 6. `open-data-pipeline` — Capstone
 - End-to-end pipeline on a real public UK dataset (e.g. Environment Agency, ONS, OS OpenData)
-- Stack: Python ingest → PostgreSQL/DuckDB → dbt transform → DQ checks → Airflow orchestration
+- Stack: Python ingest → PostgreSQL/DuckDB → dbt transform → DQ checks → Prefect orchestration
 - **Streamlit** dashboard as the serving layer — interactive data app to surface the pipeline's outputs
 - Full Docker Compose stack; README with architecture diagram
 - **Why last:** Showpiece repo. References patterns from all previous repos and demonstrates the full DE lifecycle. Streamlit ties the analytical output to a user-facing app — recruiters can see results without touching SQL.
