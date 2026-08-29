@@ -1,10 +1,10 @@
-# Hi, I'm Doug 👋
+# Hi, I'm Doug
 
 Data Analyst & Engineer with a background in spatial data, ETL pipelines, and analytical tooling. I'm actively building a Data Engineering portfolio to demonstrate practical skills across the modern open-source DE stack.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Area | Technologies |
 |:---|:---|
@@ -20,7 +20,7 @@ Data Analyst & Engineer with a background in spatial data, ETL pipelines, and an
 
 ---
 
-## 🏗️ Data Engineering Portfolio
+## Data Engineering Portfolio
 
 Portfolio built to demonstrate mid-level Data Engineering skills using open-source technologies. Each repository is a focused mini-project, built progressively.
 
@@ -48,7 +48,7 @@ Portfolio built to demonstrate mid-level Data Engineering skills using open-sour
 | Streamlit     |    |    |    |    |    | ✅ |
 ---
 
-## 📚 Analysis Projects
+## Analysis Projects
 
 Earlier projects focused on data analysis and visualisation.
 
